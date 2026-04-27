@@ -2,7 +2,7 @@
 
 Esse guia serve para eu ter acesso fácil aos comandos que precisarei executar caso precise reinstalar o sistema novamente. Como uso o CachyOS como distro Linux, preciso fazer tudo levando em conta o gerenciador de pacotes **PACMAN**
 
-## 1. Configuração do CachyOS <img src="https://cachyos.org/_astro/logo.DuMERIP6.svg" width="30" height="30" alt="CachyOS logo">
+## 1. Configuração do CachyOS 🐧
 
 ### Instação dos aplicativos
 
