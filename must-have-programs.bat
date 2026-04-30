@@ -8,6 +8,8 @@ winget install Discord.Discord
 winget install Hibbiki.Chromium
 winget install Blip
 winget install shinchiro.mpv
+winget instal GameSir.GameSirConnect
+winget instal Asus.ArmouryCrate
 
 @REM Softwares e Linguagens de Programação
 winget install Microsoft.PowerShell
@@ -24,5 +26,3 @@ winget install Insomnia.Insomnia
 @REM Jogos
 winget install EpicGames.EpicGamesLauncher
 winget install Valve.Steam
-winget instal GameSir.GameSirConnect
-winget instal Asus.ArmouryCrate
